@@ -1,0 +1,61 @@
+body
+{
+background-color: #B0E0E6;
+}
+
+
+   
+footer{
+  border:10px groove lavender;
+   background: white;
+    bottom:0; 
+    color:pink;
+   float:relative;
+  
+  width:97em ;
+  height:10em;
+  margin-right:1em}
+
+
+
+h1 {
+text-align:center;
+font-family:Harlow Solid Italic, AR DARLING;
+background-color:pink;
+
+}
+
+h2 {
+text-align:center;
+font-family:Harlow Solid Italic, AR DARLING;
+background-color:aqua;
+
+}
+
+h3 {
+text-align:center;
+font-family:Harlow Solid Italic, AR DARLING;
+background-color:yellow;
+
+}
+
+h4 {
+text-align:center;
+font-family:Harlow Solid Italic, AR DARLING;
+background-color:violet;
+}
+
+.caja_imagen
+{
+   width:300px;
+   margin:60px auto;
+
+   box-shadow:10px 10px 15px black;
+
+}
+
+
+.caja_opacidad:hover{
+ opacity: 0.5;
+ }
+
